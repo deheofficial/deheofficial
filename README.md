@@ -7,7 +7,7 @@
 > Started from scratch & building ideas into systems.  
 > Passionate about full-stack development, automation, and creating meaningful digital products.
 
-- 💻 Currently working on **Visa Luar Negara & eVisa Portal ** (Angular + Spring Boot)
+- 💻 Currently working on **Visa Luar Negara & eVisa Portal** (Angular + Spring Boot)
 - 🌍 Building **Ketravelan** — a modern travel community platform
 - 🧠 Exploring **AI integrations**, Supabase, and automation tools
 - ⚙️ Stack: `Angular`, `React / Next.js`, `CodeIgniter 4`, `Node`, `Supabase`, `MySQL`, `Postgres`
