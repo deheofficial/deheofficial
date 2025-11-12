@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://i.imgur.com/PLuO6sO.png](https://www.wiz.ai/content/uploads/2025/09/Blog-images-scaled.jpg)" alt="Wan Idham Banner" width="100%"/>
+  <img src="https://www.wiz.ai/content/uploads/2025/09/Blog-images-scaled.jpg" alt="Wan Idham Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Wan Idham</h1>
