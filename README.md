@@ -1,18 +1,13 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://www.wiz.ai/content/uploads/2025/09/Blog-images-scaled.jpg" alt="Wan Idham Banner" width="100%"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Wan Idham</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Founder @ TechnoVan | Developer @ Ketravelan</h3>
 
 ---
 
 ### 🚀 About Me
-> Started from scratch — building ideas into systems.  
+> Started from scratch & building ideas into systems.  
 > Passionate about full-stack development, automation, and creating meaningful digital products.
 
-- 💻 Currently working on **eVISA Validation Platform** (Angular + Spring Boot + CI4)
+- 💻 Currently working on **Visa Luar Negara & eVisa Portal ** (Angular + Spring Boot)
 - 🌍 Building **Ketravelan** — a modern travel community platform
 - 🧠 Exploring **AI integrations**, Supabase, and automation tools
 - ⚙️ Stack: `Angular`, `React / Next.js`, `CodeIgniter 4`, `Node`, `Supabase`, `MySQL`, `Postgres`
@@ -51,7 +46,7 @@
 ---
 
 ### ✨ Quote
-> “Started from zero isn’t weakness — it’s courage.  
+> “Started from zero isn’t weakness. It’s courage.  
 > When you’ve got nothing to lose, you move different.” – Wan Idham
 
 ---
